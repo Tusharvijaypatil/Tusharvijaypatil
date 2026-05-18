@@ -11,4 +11,4 @@ I'm cleaning up the n8n workflow JSONs and pushing them to dedicated repos this 
 
 Tools I use day to day: n8n, LangChain, LangGraph, Pinecone, Claude / OpenAI, FastAPI, Python, Postgres, Apps Script.
 
-Open to AI engineer / automation roles. tusharpatil.w2001@gmail.com
+Open to AI engineer / automation roles. tusharpatil.w2001@gmail.com · [LinkedIn](https://www.linkedin.com/in/tushar-patil47)
